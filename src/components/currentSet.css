@@ -1,0 +1,48 @@
+.playerScoreboard {
+    border: 1px solid black;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.currentSetScoreboard {
+    border: 1px solid black;
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+}
+.playersNames {
+    width: 10%;
+    border-right: 1px solid black;
+    display:flex;
+    flex-direction: column;
+}
+.playerName {
+    height: 50%;
+    border-bottom: 1px solid black;
+}
+
+.gameBox {
+    width: 3%;
+    border-right: 1px solid black;
+    display:flex;
+    flex-direction: column;
+    
+}
+.gameBoxPlayer {
+    height: 50%;
+    border-bottom: 1px solid black;
+}
+
+.gameAddersButtons{
+    width: 8%;
+    border-right: 1px solid black;
+    display:flex;
+    flex-direction: column;
+    
+}
+.buttonAdder {
+    height: 50%;
+    border-bottom: 1px solid black;
+
+}

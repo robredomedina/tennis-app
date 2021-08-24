@@ -1,0 +1,4 @@
+.gameDescriptionDiv {
+    display: flex;
+    flex-direction: row;
+}
